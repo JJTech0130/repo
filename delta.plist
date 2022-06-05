@@ -17,9 +17,9 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.mysite.myapp</string>
+<string>com.rileytestut.Delta.Beta</string>
 <key>bundle-version</key>
-<string>1.0</string>
+<string>49</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
