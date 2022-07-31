@@ -12,7 +12,7 @@
           <string>software-package</string>
           <key>url</key>
           <!-- CHANGEME on next line -->
-          <string>https://github.com/JJTech0130/apps/releases/download/apps/RetroArch.ipa</string>
+          <string>https://github.com/JJTech0130/repo/releases/download/apps/RetroArch.ipa</string>
         </dict>     
       </array>  
       <key>metadata</key>
