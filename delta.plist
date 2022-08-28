@@ -12,7 +12,7 @@
           <string>software-package</string>
           <key>url</key>
           <!-- CHANGEME on next line -->
-          <string>https://github.com/JJTech0130/repo/releases/download/apps/Delta.ipa</string>
+          <string>https://github.com/JJTech0130/repo/releases/download/resign-01/Delta-1_4_b2.ipa</string>
         </dict>     
       </array>  
       <key>metadata</key>
@@ -20,9 +20,9 @@
         <key>bundle-identifier</key>
         <!-- CHANGEME on next line -->
         <string>dev.jjtech.Delta.Beta</string>
-        <key>bundle-version</key>
+        <!--<key>bundle-version</key>-->
         <!-- CHANGEME -->
-        <string>49</string>
+        <!--<string>49</string>-->
         <key>kind</key>
         <string>software</string>
         <key>title</key>
