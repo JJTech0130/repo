@@ -19,7 +19,7 @@
       <dict>    
         <key>bundle-identifier</key>
         <!-- CHANGEME on next line -->
-        <string>dev.jjtech.Provenance</string>
+        <string>dev.jjtech.provenance</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
