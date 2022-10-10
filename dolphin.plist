@@ -12,14 +12,14 @@
           <string>software-package</string>
           <key>url</key>
           <!-- CHANGEME on next line -->
-          <string>https://github.com/JJTech0130/repo/releases/download/resign-12/DolphiniOS-NJB-Beta-3.2.1b1-213.ipa</string>
+          <string>https://github.com/JJTech0130/repo/releases/download/resign-15/DolphiniOS.NJB-3.2.1-213.ipa</string>
         </dict>     
       </array>  
       <key>metadata</key>
       <dict>    
         <key>bundle-identifier</key>
         <!-- CHANGEME on next line -->
-        <string>dev.jjtech.DolphiniOS-njb-patreon-beta</string>
+        <string>dev.jjtech.DolphiniOS</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
